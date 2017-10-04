@@ -1,0 +1,17 @@
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/account/exception/InsufficientFundsExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/exception/AccountDeletionExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/account/TaxAccountTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/exception/AccountCreationExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/control/exception/BankTransactionExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/account/exception/NegativeAmountExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/exception/ExistingAccountExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/AccountVectorTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/AccountXStreamTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/control/exception/IncompatibleAccountExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/account/OrdinaryAccountTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/account/SpecialAccountTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/exception/AccountNotFoundExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/account/SavingsAccountTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/exception/FlushExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/persistence/exception/PersistenceExceptionTest.java
+/home/362949/Área de Trabalho/bank-workspace/MyBank/src/test/java/br/ufc/dc/tpii/bank/control/BankControllerTest.java
